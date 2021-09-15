@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Hostellers&apos; to &apos;Hosteller&apos;&#x0D;&#x0A;- Original project: &apos;College&apos;&#x0D;&#x0A;- Original element: &apos;Hostellers&apos;&#x0D;&#x0A;- Renamed element: &apos;Hosteller&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Hostellers&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{Hostellers.java[Hostellers" matchStrategy="1" name="Hosteller" qualified="false" references="true" similarDeclarations="false" stamp="1621597181901" textual="false" version="1.0"/>
+</session>

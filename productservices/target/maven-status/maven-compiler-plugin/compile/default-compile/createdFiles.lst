@@ -1,0 +1,5 @@
+com\basu\product\Product.class
+com\basu\product\ProductBOImpl.class
+com\basu\product\bo\ProductBO.class
+com\basu\product\dao\ProductDAOImpl.class
+com\basu\product\dao\ProductDAO.class

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\HP\Desktop\CSD\ICT2\CarstoreApplication"/>
+			<item value="C:\Users\HP\Desktop\CSD\Marathon"/>
+			<item value="C:\Users\HP\Desktop\CSD\EBill"/>
+			<item value="C:\Users\HP\Desktop\CSD\Loan EMI Calculator"/>
+			<item value="C:\Users\HP\Desktop\CSD\springfiles\CTS-GENC-Learn-platform--main\Unit Testing, Code Quality\Additional Handson\TestCallBack\TestCallback"/>
+			<item value="C:\Users\HP\Desktop\CSD\springfiles\CTS-GENC-Learn-platform--main\Unit Testing, Code Quality\Additional Handson\Loan EMI Calculator\LoanEMICalculator"/>
+			<item value="C:\Users\HP\Desktop\CSD\springfiles\CTS-GENC-Learn-platform--main\Unit Testing, Code Quality\Additional Handson\Loan EMI Calculator"/>
+			<item value="C:\Users\HP\Desktop\CSD\SpringBootHandsOns\Body Mass Index"/>
+			<item value="C:\Users\HP\Desktop\CSD\SpringBootHandsOns\Age Calculator"/>
+			<item value="C:\Users\HP\Desktop\CSD\SpringBootHandsOns\BakingoCakeService"/>
+			<item value="C:\Users\HP\Desktop\CSD\SpringBootHandsOns\HolidayParty-Validations"/>
+			<item value="C:\Users\HP\Desktop\CSD\ZeeZeeLogin"/>
+			<item value="C:\Users\HP\Desktop\CSD\cc\LoanManagement"/>
+			<item value="C:\Users\HP\Desktop\CSD\Front End-Internationalization"/>
+			<item value="C:\Users\HP\Desktop\CSD\Cognizant_Early_Engagement-master\Dashboard\SpringBootHandsOns\Front End-Internationalization\Internationalization"/>
+			<item value="C:\Users\HP\Desktop\CSD\spring-boot-first-web-application"/>
+			<item value="C:\Users\HP\Desktop\CSD\Cognizant_Early_Engagement-master\Dashboard\JUnitMockitoHandsOns\Verify Call - JUnit using Mockito\VerifyCall"/>
+			<item value="C:\Users\HP\Desktop\CSD\Cognizant_Early_Engagement-master\Dashboard\JUnitMockitoHandsOns\TestMockDB\TestMockDB"/>
+			<item value="C:\Users\HP\Desktop\CSD\Cognizant_Early_Engagement-master\Dashboard\JUnitMockitoHandsOns\Product Login Test suite\ProductLogin"/>
+			<item value="C:\Users\HP\Desktop\CSD\Cognizant_Early_Engagement-master\Dashboard\JUnitMockitoHandsOns\Parameterized\RainbowJewellersParameterizedTest"/>
+			<item value="B:\eclipse\BookMovieTicket"/>
+			<item value="C:\Users\HP\Desktop\CSD\spring cc\Spring_Framework_code_challenges\Lexa Kiwi Showroom_yes\LexaKiwiShowroom"/>
+			<item value="C:\Users\HP\Desktop\CSD\Cognizant_Early_Engagement-master\Dashboard\SpringCoreHandsOns\Billing Software Application\ProductBillingApplication"/>
+			<item value="C:\Users\HP\Desktop\CSD\Cognizant_Early_Engagement-master\Dashboard\SpringCoreHandsOns\SpringAopDemo"/>
+			<item value="C:\Users\HP\Desktop\CSD\SpringAopDemo"/>
+			<item value="C:\Users\HP\Desktop\CSD\springprojects\springaop"/>
+			<item value="C:\Users\HP\Desktop\CSD\PatientManagement"/>
+			<item value="C:\Users\HP\Desktop\CSD\PassportService"/>
+			<item value="C:\Users\HP\Desktop\CSD\EngineAnalysis"/>
+			<item value="C:\Users\HP\Desktop\CSD\EBanking"/>
+			<item value="C:\Users\HP\Desktop\CSD\springprojects\springcoreadvanced\src"/>
+			<item value="C:\Users\HP\Desktop\CSD\Cognizant_Early_Engagement-master\Dashboard\SpringCoreHandsOns\DBConfig-SetterBasedInjection\DBConfig"/>
+			<item value="C:\Users\HP\Desktop\CSD\Cognizant_Early_Engagement-master\Dashboard\SpringCoreHandsOns\DBConfig-SetterBasedInjection"/>
+			<item value="C:\Users\HP\Desktop\CSD\Cognizant_Early_Engagement-master\Dashboard\SpringCoreHandsOns\EZEE Transport"/>
+			<item value="C:\Users\HP\Desktop\CSD\mavan\hellomaven"/>
+			<item value="C:\Users\HP\Desktop\CSD\UNOAdmission"/>
+			<item value="C:\Users\HP\Desktop\CSD\ICT\UNOAdmission"/>
+			<item value="C:\Users\HP\Desktop\CSD\RainFall"/>
+			<item value="C:\Users\HP\Desktop\CSD\java\Collection Generics and Stream API\Additional Handson\Book Manipulation"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.m2e.core.wizards.Maven2ProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.jdt.ui.java"/>
+			<item value="org.eclipse.m2e"/>
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="619"/>
+		<item key="DIALOG_Y_ORIGIN" value="274"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="CleanDialogSettings">
+		<item key="TOGGLE_SELECTED" value="false"/>
+		<item key="DIALOG_WIDTH" value="662"/>
+		<item key="DIALOG_HEIGHT" value="434"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>
